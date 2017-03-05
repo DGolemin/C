@@ -9,10 +9,12 @@ namespace Cor2
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i <= 10;i++ )
+            for (int i = 0; i <= 5;i++ )
             {
+                Console.BackgroundColor = ConsoleColor.DarkYellow;
+                Console.WriteLine("Hellow World!!");
                 Console.BackgroundColor = ConsoleColor.DarkGreen;
-                Console.WriteLine("Hellow World");
+                Console.WriteLine("Hellow World.");
             }
             Console.ReadLine();
         }
