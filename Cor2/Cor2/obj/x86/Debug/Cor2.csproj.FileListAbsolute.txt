@@ -1,0 +1,4 @@
+C:\Users\DGolemin.INFORMATICS\Desktop\C20\Cor2\Cor2\bin\Debug\Cor2.exe
+C:\Users\DGolemin.INFORMATICS\Desktop\C20\Cor2\Cor2\bin\Debug\Cor2.pdb
+C:\Users\DGolemin.INFORMATICS\Desktop\C20\Cor2\Cor2\obj\x86\Debug\Cor2.exe
+C:\Users\DGolemin.INFORMATICS\Desktop\C20\Cor2\Cor2\obj\x86\Debug\Cor2.pdb
